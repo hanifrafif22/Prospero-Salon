@@ -4,7 +4,7 @@
 #### Hanif Zufar Rafif 1806200412
 Program ini adalah program pemesanan antrian pada salon dengan beragam fitur.
 
-##### How to use?
+#### How to use?
 Program ini dapat digunakan dengan menggunakan panah pada keyboard dan juga mouse. Program ini akan meminta data pada user untuk antrian dan akan disimpan, lalu saat ada antrian baru maka antrian baru akan terhitung antrian nomor ke-2 dan seterusnya. 
 
 Access permission sebelum memulai program:
